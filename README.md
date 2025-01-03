@@ -1,6 +1,8 @@
 # NFe XML 分析工具：一站式发票数据分析与导出解决方案
 
 这是一款专为加载和分析巴西电子发票（NFe）XML文件而设计的工具，支持批量处理与直观数据分析，并可将结果导出 XLSX 格式进行更细致的分析发票数据。例如，当 Bling 平台或者其他任意平台无法清晰呈现发票相关数据时，您可以从 平台中 导出销售单个或多个发票的 XML 文件，借助本程序进行深入解析和分析。
+![image](https://github.com/user-attachments/assets/20903e31-5d53-47ff-a29a-62fa1bee979f)
+
 
 ---
 
@@ -50,6 +52,7 @@ pip install -r requirements.txt
    - 点击“选择 NFe 文件”按钮
    - 批量选择 XML 格式的 NFe 文件
 ![image](https://github.com/user-attachments/assets/33e54baf-6515-450d-8852-defa80972a9b)
+
 3. 查看分析结果：
    - 在“数据明细”页查看发票详情
 ![image](https://github.com/user-attachments/assets/1efe9a65-9749-41b8-9949-be7e254bb155)
@@ -58,9 +61,7 @@ pip install -r requirements.txt
 ![image](https://github.com/user-attachments/assets/aaa43e32-3d64-40d6-8054-2167ab53848e)
 
    - 在“统计分析”页获取数据洞察
-![image](https://github.com/user-attachments/assets/7e5a9d30-1e3d-47fe-956e-bae28e859c64)
-
-
+![image](https://github.com/user-attachments/assets/e64928fc-f3eb-4b7a-9d67-e74b93e47583)
 
 
 4. 导出数据：
