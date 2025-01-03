@@ -49,16 +49,16 @@ pip install -r requirements.txt
 2. 导入文件：
    - 点击“选择 NFe 文件”按钮
    - 批量选择 XML 格式的 NFe 文件
-   - - ![image](https://github.com/user-attachments/assets/33e54baf-6515-450d-8852-defa80972a9b)
+![image](https://github.com/user-attachments/assets/33e54baf-6515-450d-8852-defa80972a9b)
 3. 查看分析结果：
    - 在“数据明细”页查看发票详情
-   - ![image](https://github.com/user-attachments/assets/1efe9a65-9749-41b8-9949-be7e254bb155)
+![image](https://github.com/user-attachments/assets/1efe9a65-9749-41b8-9949-be7e254bb155)
 
    - 在“发票分析”页了解整体情况
-   -![image](https://github.com/user-attachments/assets/aaa43e32-3d64-40d6-8054-2167ab53848e)
+![image](https://github.com/user-attachments/assets/aaa43e32-3d64-40d6-8054-2167ab53848e)
 
    - 在“统计分析”页获取数据洞察
-   - ![image](https://github.com/user-attachments/assets/7e5a9d30-1e3d-47fe-956e-bae28e859c64)
+![image](https://github.com/user-attachments/assets/7e5a9d30-1e3d-47fe-956e-bae28e859c64)
 
 
 
