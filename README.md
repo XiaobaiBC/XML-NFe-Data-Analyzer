@@ -47,18 +47,21 @@ python nfe_analyzer.py
 2. 选择文件
 - 点击"选择NFe文件"按钮
 - 选择一个或多个 XML 格式的 NFe 文件
+- ![image](https://github.com/user-attachments/assets/33e54baf-6515-450d-8852-defa80972a9b)
+
 
 3. 查看分析
 - 在"数据明细"标签页查看详细数据
+- ![image](https://github.com/user-attachments/assets/ddf1e331-f982-4ad5-9333-fadb0f94ed4c)
+
 - 在"发票分析"标签页查看发票汇总
+- ![image](https://github.com/user-attachments/assets/ac587e48-7869-4d78-b16e-0cd4c6116cb4)
+
 - 在"统计分析"标签页查看统计指标
+![image](https://github.com/user-attachments/assets/676d4e4b-0d52-442a-8c8c-44a21ea12fdb)
 
 4. 导出数据
 - 点击"导出Excel"按钮导出分析结果
-
-## 功能截图
-
-[这里可以添加程序界面的截图]
 
 ## 主要特性
 
